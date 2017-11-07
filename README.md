@@ -19,3 +19,7 @@ Develop a Pingry organization wallet on the Rinkeby test network to allow the po
 ### Peer Structure
 
 Develop a peer structure that receives funds from any account, has its own public and private key, and is coded to gradually return ether to a fixed funding account.
+
+### PCoin
+
+A simple token build according to the tutorial at 
